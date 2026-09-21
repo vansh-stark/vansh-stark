@@ -312,7 +312,7 @@ Systems
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-vansh--stark-0d1f3c?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1f3c&color=00c8ff)](https://github.com/vansh-stark)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1f3c?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1f3c&color=0077b5)](www.linkedin.com/in/bansalvansh0911)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1f3c?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1f3c&color=0077b5)](https://www.linkedin.com/in/bansalvansh0911)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-0d1f3c?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1f3c&color=EA4335)](mailto:bansal_vansh@outlook.com)
 
 </div>
